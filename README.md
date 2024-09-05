@@ -16,4 +16,11 @@ ___
  I want to : have a Help File for Making a Blockquote in Markdown.
  So that: When I need to do it I can find instructions.
  DoD: Devops Collegue Uses Instruction.
+
+As a devops,
+I want to,have a Help File for Making a sequence diagram in Markdown.
+So that
+When I need to do it I can find instructions.
+DoD 
+Deops Colleague Uses Instruction.
 >>>>>>> b9c4e7c63a6298fbb2331743b6afd085e46206fd
