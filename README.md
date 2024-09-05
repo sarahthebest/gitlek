@@ -4,7 +4,7 @@
 
 - You can also use emoji shortcuts that start and end with a colon and ends with the name of the emoji, like `:joy:` that would render :joy:
 
-## This is a guide to making horizontal rulers in markdown
+# This is a guide to making horizontal rulers in markdown
 
 To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
 
@@ -16,3 +16,4 @@ ___
  I want to : have a Help File for Making a Blockquote in Markdown.
  So that: When I need to do it I can find instructions.
  DoD: Devops Collegue Uses Instruction.
+>>>>>>> b9c4e7c63a6298fbb2331743b6afd085e46206fd
