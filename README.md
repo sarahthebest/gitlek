@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-# gitlek
 # Userstory 007
 As a devops
 ## I want to
@@ -20,13 +19,9 @@ Devops collegue uses instruction
 
 To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
 
-___
-
 # gitlek
 
  As a: devops,
  I want to : have a Help File for Making a Blockquote in Markdown.
  So that: When I need to do it I can find instructions.
- DoD: Devops Collegue Uses Instruction.
->>>>>>> b9c4e7c63a6298fbb2331743b6afd085e46206fd
->>>>>>> refs/remotes/origin/main
+ DoD: Devops Collegue Uses Instructio.
