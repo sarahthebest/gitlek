@@ -46,6 +46,22 @@ would render this:
 
 Highlighting text isn't common, but some Markdown processors allow you to highlight text. To highlight words use two equal signs before and after the highlighted text. `==highlighted==` would render this: ==highlighted== 
 
+# This is a guide to inserting a table in markdown
+
+To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column. For compatibility, you should also add a pipe on either end of the row.
+
+`| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |`
+
+would render this:
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 # This is a guide to writing emojis in markdown
 
 - Most of the time you can just copy and paste emojis into your markdown file. Many Markdown applications will automatically display the emoji in the Markdown-formatted text.
@@ -56,6 +72,13 @@ Highlighting text isn't common, but some Markdown processors allow you to highli
 
 To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+[Duck Duck Go](https://duckduckgo.com)
+=======
+<<<<<<< HEAD
+>>>>>>> 95e217d7d4e90c5a1cb1e1b5d8cf1f76b524c68c
 # gitlek
 
  As a: devops,
@@ -69,7 +92,11 @@ DoD devops collegue uses instruction.
  DoD: Devops Collegue Uses Instructio.
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 95e217d7d4e90c5a1cb1e1b5d8cf1f76b524c68c
 ___
 <<<<<<< HEAD
 
