@@ -10,7 +10,7 @@
 # Userstory-011
 ## How to make a  Blockqoute in Markdown
 
-### To create a blockquote, add a > in front of at paragraph
+### To create a blockquote, add a > in front of a paragraph
 > Dorothy folloed her through many of the beautiful rooms in her castle.
 
 ## Blockqoutes with Multiple Paragraphs:
