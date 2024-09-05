@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> eea1fc5f4ef20b86cec55f73a8a026c4438453bb
 # Userstory-011
 ## How to make a  Blockqoute in Markdown
 
@@ -12,6 +18,7 @@
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood
 
 # gitlek
+>>>>>>> refs/remotes/origin/main
 # Userstory 007
 As a devops
 ## I want to
@@ -22,6 +29,21 @@ When i need to do it i can find isntructions
 ## DOD
 Devops collegue uses instruction
 =======
+
+# This is a guide to inserting images in markdown
+
+To insert a image add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL. 
+
+`![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")`
+
+would render this:
+
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
+# This is a guide to highlighting words in markdown
+
+Highlighting text isn't common, but some Markdown processors allow you to highlight text. To highlight words use two equal signs before and after the highlighted text. `==highlighted==` would render this: ==highlighted== 
+
 # This is a guide to writing emojis in markdown
 
 - Most of the time you can just copy and paste emojis into your markdown file. Many Markdown applications will automatically display the emoji in the Markdown-formatted text.
@@ -32,7 +54,23 @@ Devops collegue uses instruction
 
 To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
 
+<<<<<<< HEAD
+# gitlek
+
+ As a: devops,
+ I want to : have a Help File for Making a Blockquote in Markdown.
+ So that: When I need to do it I can find instructions.
+<<<<<<< HEAD
+ DoD: Devops Collegue Uses Instruction.
+>>>>>>> b9c4e7c63a6298fbb2331743b6afd085e46206fd
+As a devops, I want to have a help file for making lists in markdown. 
+So that when i need to do it i can find instructions. 
+DoD devops collegue uses instruction. 
+=======
+ DoD: Devops Collegue Uses Instructio.
+=======
 ___
+<<<<<<< HEAD
 
 # gitlek
 
@@ -44,3 +82,7 @@ ___
 >>>>>>> b9c4e7c63a6298fbb2331743b6afd085e46206fd
 =======
 >>>>>>> 5a2220e2f19e52286baf654ccca9d447310d1ff4
+=======
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 82c3beacb97bd9bf9545405f2867058f096fbf76
+>>>>>>> eea1fc5f4ef20b86cec55f73a8a026c4438453bb
