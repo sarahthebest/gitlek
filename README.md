@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # gitlek
 # Userstory 007
 As a devops
@@ -10,6 +9,11 @@ When i need to do it i can find isntructions
 ## DOD
 Devops collegue uses instruction
 =======
+
+# This is a guide to highlighting words in markdown
+
+Highlighting text isn't common, but some Markdown processors allow you to highlight text. To highlight words use two equal signs before and after the highlighted text. `==highlighted==` would render this: ==highlighted== 
+
 # This is a guide to writing emojis in markdown
 
 - Most of the time you can just copy and paste emojis into your markdown file. Many Markdown applications will automatically display the emoji in the Markdown-formatted text.
