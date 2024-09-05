@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 # Userstory-011
 ## How to make a  Blockqoute in Markdown
 
@@ -12,6 +15,7 @@
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood
 
 # gitlek
+>>>>>>> refs/remotes/origin/main
 # Userstory 007
 As a devops
 ## I want to
@@ -47,4 +51,13 @@ Highlighting text isn't common, but some Markdown processors allow you to highli
 
 To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
 
+<<<<<<< HEAD
+# gitlek
+
+ As a: devops,
+ I want to : have a Help File for Making a Blockquote in Markdown.
+ So that: When I need to do it I can find instructions.
+ DoD: Devops Collegue Uses Instructio.
+=======
 ___
+>>>>>>> refs/remotes/origin/main
