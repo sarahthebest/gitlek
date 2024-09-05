@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 # Userstory-011
 ## How to make a  Blockqoute in Markdown
 
@@ -12,6 +15,7 @@
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood
 
 # gitlek
+>>>>>>> refs/remotes/origin/main
 # Userstory 007
 As a devops
 ## I want to
@@ -22,6 +26,16 @@ When i need to do it i can find isntructions
 ## DOD
 Devops collegue uses instruction
 =======
+
+# This is a guide to inserting images in markdown
+
+To insert a image add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL. 
+
+`![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")`
+
+would render this:
+
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 # This is a guide to highlighting words in markdown
 
@@ -37,5 +51,17 @@ Highlighting text isn't common, but some Markdown processors allow you to highli
 
 To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
 
+<<<<<<< HEAD
 [Duck Duck Go](https://duckduckgo.com)
+=======
+<<<<<<< HEAD
+# gitlek
+
+ As a: devops,
+ I want to : have a Help File for Making a Blockquote in Markdown.
+ So that: When I need to do it I can find instructions.
+ DoD: Devops Collegue Uses Instructio.
+=======
+>>>>>>> refs/remotes/origin/main
 ___
+>>>>>>> refs/remotes/origin/main
