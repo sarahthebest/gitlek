@@ -60,8 +60,16 @@ To create a horizontal rule, use three or more asterisks (***), dashes (---), or
  As a: devops,
  I want to : have a Help File for Making a Blockquote in Markdown.
  So that: When I need to do it I can find instructions.
+<<<<<<< HEAD
+ DoD: Devops Collegue Uses Instruction.
+>>>>>>> b9c4e7c63a6298fbb2331743b6afd085e46206fd
+As a devops, I want to have a help file for making lists in markdown. 
+So that when i need to do it i can find instructions. 
+DoD devops collegue uses instruction. 
+=======
  DoD: Devops Collegue Uses Instructio.
 =======
 >>>>>>> refs/remotes/origin/main
 ___
 >>>>>>> refs/remotes/origin/main
+>>>>>>> 82c3beacb97bd9bf9545405f2867058f096fbf76
