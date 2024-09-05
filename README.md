@@ -13,3 +13,6 @@
  So that: When I need to do it I can find instructions.
  DoD: Devops Collegue Uses Instruction.
 >>>>>>> b9c4e7c63a6298fbb2331743b6afd085e46206fd
+As a devops, I want to have a help file for making lists in markdown. 
+So that when i need to do it i can find instructions. 
+DoD devops collegue uses instruction. 
