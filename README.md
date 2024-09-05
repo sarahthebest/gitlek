@@ -1,3 +1,16 @@
+# Userstory-011
+## How to make a  Blockqoute in Markdown
+
+### To create a blockquote, add a > in front of at paragraph
+> Dorothy folloed her through many of the beautiful rooms in her castle.
+
+## Blockqoutes with Multiple Paragraphs:
+### Add a > on the blank lines between the paragraphs.
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood
+
 # gitlek
 # Userstory 007
 As a devops
@@ -25,12 +38,3 @@ Highlighting text isn't common, but some Markdown processors allow you to highli
 To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
 
 ___
-
-# gitlek
-
- As a: devops,
- I want to : have a Help File for Making a Blockquote in Markdown.
- So that: When I need to do it I can find instructions.
- DoD: Devops Collegue Uses Instruction.
->>>>>>> b9c4e7c63a6298fbb2331743b6afd085e46206fd
->>>>>>> refs/remotes/origin/main
