@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> eea1fc5f4ef20b86cec55f73a8a026c4438453bb
+>>>>>>> 48918f003485549bc7d8de48e47cdcd70bd761db
 # Userstory-011
 ## How to make a  Blockqoute in Markdown
 
@@ -59,3 +68,23 @@ DoD devops collegue uses instruction.
 =======
  DoD: Devops Collegue Uses Instructio.
 =======
+<<<<<<< HEAD
+=======
+___
+<<<<<<< HEAD
+
+# gitlek
+
+ As a: devops,
+ I want to : have a Help File for Making a Blockquote in Markdown.
+ So that: When I need to do it I can find instructions.
+ DoD: Devops Collegue Uses Instruction.
+
+>>>>>>> b9c4e7c63a6298fbb2331743b6afd085e46206fd
+=======
+>>>>>>> 5a2220e2f19e52286baf654ccca9d447310d1ff4
+=======
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 82c3beacb97bd9bf9545405f2867058f096fbf76
+>>>>>>> eea1fc5f4ef20b86cec55f73a8a026c4438453bb
+>>>>>>> 48918f003485549bc7d8de48e47cdcd70bd761db
