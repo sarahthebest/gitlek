@@ -37,4 +37,5 @@ Highlighting text isn't common, but some Markdown processors allow you to highli
 
 To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
 
+[Duck Duck Go](https://duckduckgo.com)
 ___
