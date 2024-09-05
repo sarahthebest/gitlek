@@ -23,6 +23,16 @@ When i need to do it i can find isntructions
 Devops collegue uses instruction
 =======
 
+# This is a guide to inserting images in markdown
+
+To insert a image add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL. 
+
+`![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")`
+
+would render this:
+
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
 # This is a guide to highlighting words in markdown
 
 Highlighting text isn't common, but some Markdown processors allow you to highlight text. To highlight words use two equal signs before and after the highlighted text. `==highlighted==` would render this: ==highlighted== 
@@ -42,6 +52,10 @@ To create a horizontal rule, use three or more asterisks (***), dashes (---), or
  As a: devops,
  I want to : have a Help File for Making a Blockquote in Markdown.
  So that: When I need to do it I can find instructions.
+ DoD: Devops Collegue Uses Instruction.
+As a devops, I want to have a help file for making lists in markdown. 
+So that when i need to do it i can find instructions. 
+DoD devops collegue uses instruction. 
+=======
  DoD: Devops Collegue Uses Instructio.
 =======
-___
