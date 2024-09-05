@@ -29,8 +29,8 @@ Making bold and italic text in Markdown.
 ## So that
 When i need to do it i can find isntructions
 ## DOD
-Devops collegue uses instruction
-=======
+Devops collegue uses instruction.:
+
 
 # This is a guide to inserting images in markdown
 
